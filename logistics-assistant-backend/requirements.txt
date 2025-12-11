@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pandas
+langchain
+langchain-community
+sseclient-py
+python-dotenv
